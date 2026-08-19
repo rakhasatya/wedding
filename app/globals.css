@@ -16,6 +16,7 @@ body {
   font-family: var(--font-jakarta);
   overflow-x: hidden;
   scroll-behavior: smooth;
+  touch-action: manipulation;
 }
 
 /* Custom Scrollbar */
